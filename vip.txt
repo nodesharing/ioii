@@ -190,21 +190,21 @@ http://home.jundie.top:81/top98.json
 */
         {
             "key" : "drpy_js_美剧网",
-            "name" : "美剧网",
+            "name" : "影视┃美剧网",
             "type" : 3,
             "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
             "ext" : "https://agit.ai/guot54/TVBOXZY/raw/commit/3898cff2e637d6f41cf2307be86b649736e10123/JS/js/%e7%be%8e%e5%89%a7%e7%bd%91.js"
         },
 
 
-{"key": "搜狐资源","name": "️搜狐影视","type":1,"api":"http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","playUrl":"https://jx.xmflv.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
+{"key": "搜狐资源","name": "️影视┃搜狐影视","type":1,"api":"http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","playUrl":"https://jx.xmflv.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 
 
 
 //http://itvbox.cc/tvbox/云星日记/1.m3u8
     {
       "key": "非凡",
-      "name": "️🐝┃非凡┃已去广告",
+      "name": "️影视┃🐝┃非凡┃已去广告",
       "type": 1,
       "api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/",
       "playUrl": "json:https://www.itvbox.cc/fflz.php?url=",
@@ -234,7 +234,7 @@ http://home.jundie.top:81/top98.json
     },
 {
 			"key": "量子云播",
-			"name": "🐝┃量子┃已去广告",
+			"name": "影视┃🐝┃量子┃已去广告",
 			"type": 1,
 			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
 			"searchable": 1,
@@ -248,7 +248,7 @@ http://home.jundie.top:81/top98.json
 
             "key" : "drpy_js_子子影视",
 
-            "name" : "☁️子子影视",
+            "name" : "影视┃☁️子子影视",
 
             "type" : 3,
 
@@ -262,7 +262,7 @@ http://home.jundie.top:81/top98.json
 
             "key" : "drpy_js_创艺",
 
-            "name" : "🎞️创艺影视",
+            "name" : "影视┃🎞️创艺影视",
 
             "type" : 3,
 
@@ -272,8 +272,8 @@ http://home.jundie.top:81/top98.json
 
         },
 
-{"key": "影图影视","name": "🥪影图影视(聚)","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
-{"key": "小鸟动漫","name": "🍚小鸟动漫(聚)","type": 1,"api": "http://xydm.baicai.buzz/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
+{"key": "影图影视","name": "影视┃🥪影图影视(聚)","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
+{"key": "小鸟动漫","name": "影视┃🍚小鸟动漫(聚)","type": 1,"api": "http://xydm.baicai.buzz/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 
 //星辰http://8.210.232.168/xc.json
 {
@@ -423,7 +423,7 @@ http://home.jundie.top:81/top98.json
     },
   {
             "key": "drpy_yak",
-            "name": "粤爱看",
+            "name": "影视┃粤爱看",
             "type": 3,
             "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
             "ext": "https://download.kstore.space/download/3313/js/粤爱看.js"
@@ -498,7 +498,7 @@ http://home.jundie.top:81/top98.json
     },
     
 //分享者
-{"key":"drpy_js_酷客影院","name":"🆒酷酷影视","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/酷客影院.js"},
+{"key":"drpy_js_酷客影院","name":"影视┃🆒酷酷影视","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/酷客影院.js"},
 {
             "key" : "drpy_js_三百六十",
             "name" : "🍎360[js]",
@@ -508,15 +508,15 @@ http://home.jundie.top:81/top98.json
         },
 {
 	  "key":"csp_8K",
-	  "name":"🌠八K之光",
+	  "name":"影视┃🌠八K之光",
 	  "type":1,
 	  "api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/",
       "playUrl":"json:http://47.119.122.235:5566/json/free.php?url="
 	},	
-	{"key":"鸡婆资源","name":"🐓鸡婆采集","type":1,"api":"https://www.jipo.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","电影","剧集","综艺","动漫","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩剧","欧美剧","奇幻片","犯罪片","动画片","大陆综艺","日韩综艺","其他综艺","悬疑片","冒险片","惊悚片","灾难片","海外剧","其他剧","其他片","历史片","国产动漫","日韩动漫","欧美动漫","武侠片","国创","番剧","港台综艺","欧美综艺","港台动漫","海外动漫","体育","电影解说","足球","篮球","网球","斯诺克","泰国剧","预告片"]},
+	{"key":"鸡婆资源","name":"影视┃🐓鸡婆采集","type":1,"api":"https://www.jipo.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","电影","剧集","综艺","动漫","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩剧","欧美剧","奇幻片","犯罪片","动画片","大陆综艺","日韩综艺","其他综艺","悬疑片","冒险片","惊悚片","灾难片","海外剧","其他剧","其他片","历史片","国产动漫","日韩动漫","欧美动漫","武侠片","国创","番剧","港台综艺","欧美综艺","港台动漫","海外动漫","体育","电影解说","足球","篮球","网球","斯诺克","泰国剧","预告片"]},
 	{
             "key": "干饭",
-            "name": "️🎁干饭采集",
+            "name": "️影视┃🎁干饭采集",
             "type": 1,
             "api": "http://124.220.183.81:83/api.php/provide/vod/",
             "playUrl": "https://jx.bozrc.com:4433/player/?url=",
@@ -530,13 +530,13 @@ http://home.jundie.top:81/top98.json
                 "动漫"
             ]
         },
-{"key": "阿里官采", "name": "📻阿里官源", "type": 1,  "api": "http://anltv.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2 },
+{"key": "阿里官采", "name": "影视┃📻阿里官源", "type": 1,  "api": "http://anltv.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2 },
 
-{"key":"江南资源","name":"🏜江南资源","type":0,"api":"https://api.yjiexi.com/provide/xml.html","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"江南资源","name":"影视┃🏜江南资源","type":0,"api":"https://api.yjiexi.com/provide/xml.html","playUrl":"","searchable":1,"quickSearch":1},
 
     {
             "key": "小猫咪",
-            "name": "🐱小猫咪",
+            "name": "影视┃🐱小猫咪",
             "type": 1,
             "api": "http://zy.xiaomaomi.vip/mzy/api.php/provide/vod",
             "searchable": 1,
@@ -545,7 +545,7 @@ http://home.jundie.top:81/top98.json
         },
         {
             "key": "米杏",
-            "name": "🍊米杏采集",
+            "name": "影视┃🍊米杏采集",
             "type": 1,
             "api": "https://www.mixing.tv/api.php/provide/vod/",
             "searchable": 1,
@@ -555,45 +555,45 @@ http://home.jundie.top:81/top98.json
         },
 {
             "key" : "drpy_js_奇珍异兽",
-            "name" : "🦜奇珍异兽[js]",
+            "name" : "影视┃🦜奇珍异兽[js]",
             "type" : 3,
             "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/奇珍异兽.js"
         },
 {
             "key" : "drpy_js_酷云77",
-            "name" : "🍄酷云77[js]",
+            "name" : "影视┃🍄酷云77[js]",
             "type" : 3,
             "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/酷云77.js"
         },{
             "key" : "drpy_js_菜狗",
-            "name" : "🐕‍🦺菜狗[js]",
+            "name" : "影视┃🐕‍🦺菜狗[js]",
             "type" : 3,
             "api" :"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/菜狗.js"
         },
          {
       "key": "drpy_js_腾云驾雾",
-      "name": "🔭腾云驾雾🔭",
+      "name": "影视┃🔭腾云驾雾🔭",
       "type": 3,
       "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
       "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/腾云驾雾.js"
     },
         {
       "key": "drpy_js_百忙无果",
-      "name": "🍋百忙无果[js]",
+      "name": "影视┃🍋百忙无果[js]",
       "type": 3,
       "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
       "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/百忙无果.js"
     },
-    {"key": "dr_优酷2","name": "🔭优酷🔭","type": 3,"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/js/js/优酷.js"},
-    {"key":"drpy_js_B站影视","name":"🅱️B站影视","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/B站影视.js"},
-{"key":"drpy_js_孜然影视","name":"💢孜然影视","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/孜然影视.js"},
+    {"key": "dr_优酷2","name": "影视┃🔭优酷🔭","type": 3,"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/js/js/优酷.js"},
+    {"key":"drpy_js_B站影视","name":"影视┃🅱️B站影视","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/B站影视.js"},
+{"key":"drpy_js_孜然影视","name":"影视┃💢孜然影视","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/孜然影视.js"},
 
 {
             "key": "dr_素白白",
-            "name": "🦢素白白",
+            "name": "影视┃🦢素白白",
             "type": 3,
             "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "searchable": 2,
@@ -603,7 +603,7 @@ http://home.jundie.top:81/top98.json
         },
         {
             "key": "dr_麦豆com",
-            "name": "🎤麦豆com",
+            "name": "影视┃🎤麦豆com",
             "type": 3,
             "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "searchable": 2,
@@ -611,7 +611,7 @@ http://home.jundie.top:81/top98.json
             "filterable": 0,
             "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/麦豆com.js"
         },
-        {"key":"鸭奈飞","name":"🦆鸭奈飞","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/yanaifei.js"},
+        {"key":"鸭奈飞","name":"影视┃🦆鸭奈飞","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/yanaifei.js"},
         
 {"key": "直播转点播1","name": "🎦直播转换","type": 3,"api": "https://download.kstore.space/download/4127/直播﹦点播.js","ext": "./lives/$$$太阳直播$http://9xi4o.tk/sub/mytv.txt#爱尚直播$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#终南直播$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#天空直播$https://dashu0754.com/api/v3/file/get/107/天空.txt?sign=snnQu9W2pkmE62eymRELu0TQvpjIQjwuL9rhpoHQ8JM%3D%3A0#唐三直播$http://home.jundie.top:81/Cat/tv/live.txt#多多直播$https://yydsys.top/duo/txt/v.txt#星辰直播$http://tvmvip.com/xclive.txt#吾爱直播$http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0#饭太硬直播$http://ftyyy.tk/live.txt#肥猫直播$http://我不是.肥猫.love:63/TV/tvzb.txt &&&https://api.caonm.net/api/mc/index.php"},
 
@@ -674,7 +674,7 @@ http://home.jundie.top:81/top98.json
         },
         {
     "key": "csp_xml_可米资源",
-    "name": "🦀可米影视",
+    "name": "影视┃🦀可米影视",
     "type": 1,
     "api": "https://cj.kemi.lol/api.php/provide/vod/?ac=list",
     "playUrl": "",
@@ -684,19 +684,19 @@ http://home.jundie.top:81/top98.json
     "playerType":2 
   },
 
-      {"key":"非凡影视","name":"🦉非凡影视","type":1,"api":"http://cj.ffzyapi.com//api.php/provide/vod","playUrl":"json:http://jx.realku.cn:1080/ff.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","邵氏电影","动画电影","新马剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+      {"key":"非凡影视","name":"影视┃🦉非凡影视","type":1,"api":"http://cj.ffzyapi.com//api.php/provide/vod","playUrl":"json:http://jx.realku.cn:1080/ff.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","邵氏电影","动画电影","新马剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
-{"key":"ap_少看影视","name":"♨️少看影视","type": 1,"api": "http://anltv.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","港台剧","日韩剧","电影","欧美剧","海外剧","综艺","内地动漫","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","其他剧"]},
+{"key":"ap_少看影视","name":"影视┃♨️少看影视","type": 1,"api": "http://anltv.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","港台剧","日韩剧","电影","欧美剧","海外剧","综艺","内地动漫","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","其他剧"]},
 
 { "key": "速优影视",
-      "name": "🏂量子影视",
+      "name": "影视┃🏂量子影视",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list", "playUrl":"json:https://www.itvbox.cc/fflz.php?url=",
       "searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]
     },
     {
     "key":"zy_8",
-    "name":"🐰图图|釆集",
+    "name":"影视┃🐰图图|釆集",
     "type":1,
     "api":"https://ys.md214.cn/api.php/provide/vod/",
     "m3u8ads": "hd.youyhn.com",
@@ -708,7 +708,7 @@ http://home.jundie.top:81/top98.json
 
         {
             "key": "高清资源网",
-            "name": "️⚗️高清采集",
+            "name": "影视┃️⚗️高清采集",
             "type": 1,
             "api": "https://api.1080zyku.com/inc/apijson.php",
             "playUrl": "",
@@ -716,8 +716,8 @@ http://home.jundie.top:81/top98.json
             "quickSearch": 1,
             "filterable": 1,"categories": ["国产剧","港台剧","日韩剧","电影","欧美剧","海外剧","综艺","内地动漫","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","其他剧"]
         },
-        {"key":"drpy_js_FreeOK","name":"🐉FreeOK ","type":3,"api":"http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy2.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/FreeOK.js"},
-        {"key":"drpy_js_哔哩影视","name":"🌚哔哩影视","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/哔哩影视.js"},
+        {"key":"drpy_js_FreeOK","name":"影视┃🐉FreeOK ","type":3,"api":"http://www.tvbox.lltv8.top/TVBox/JS/lib/drpy2.min.js","ext":"http://www.tvbox.lltv8.top/TVBox/JS/js/FreeOK.js"},
+        {"key":"drpy_js_哔哩影视","name":"影视┃🌚哔哩影视","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/哔哩影视.js"},
          {"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/兔小贝.js"},	
          {
             "key": "2搜狐资源",
