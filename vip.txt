@@ -978,7 +978,15 @@ http://home.jundie.top:81/top98.json
 //{"name":"测试","type":1,"url":""},
 
 {name:'刚刚走过',type:1,url:'http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url='},
-{"name":"测试","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
+{"name":"测","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
+
+{"name":"测试","type":1,"url":"http://api.xiaomaomi.tv/api/?key=df4a6fb837b6be765bbd731c4c786667&url="},
+
+{"name":"测试","type":1,"url":"https://vip.xiaomaomi.tv/api.php?key=celmostxzBGJLTV369&url="},
+
+{"name":"测试","type":1,"url":"http://json.84jia.com/api/?key=3n0GrGJ0JaB3fHbctK&url="},
+
+{"name":"测试","type":1,"url":"http://json.84jia.com/api/?key=JzZOypg2BgyJJOPoJp&url="},
 
 {"name":"自己","type":1,"url":"https://api.json.icu/api/?key=66eaf06512edaf5be4d211ec548f6b5b&url="},
 {"name":"自己1","type":1,"url":"https://vip.xuux.icu/dplayer/?uid=7273474&key=cglmxADGHIJKLNX057&url="},
