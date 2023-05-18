@@ -980,12 +980,8 @@ http://home.jundie.top:81/top98.json
 {name:'刚刚走过',type:1,url:'http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url='},
 {"name":"测试","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
 
-{"name":"测试4","type":1,"url":https://api.json.icu/api/?key=66eaf06512edaf5be4d211ec548f6b5b&url="},
-
-{"name":"测试5","type":1,"url":"https://vip.xuux.icu/dplayer/?uid=7273474&key=cglmxADGHIJKLNX057&url="},
-
-
-
+{"name":"自己","type":1,"url":"https://api.json.icu/api/?key=66eaf06512edaf5be4d211ec548f6b5b&url="},
+{"name":"自己1","type":1,"url":"https://vip.xuux.icu/dplayer/?uid=7273474&key=cglmxADGHIJKLNX057&url="},
 {"name":"自己2","type":1,"url":"https://s4.s100.vip:37811/home/api?type=ys&uid=2742611&key=dghilmnrxFJQTUX239&url="},
 {"name":"自己3","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=57322123&key=chkmnvwxABGILMUX78&url="},
 
