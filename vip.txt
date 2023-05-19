@@ -195,11 +195,7 @@ http://home.jundie.top:81/top98.json
             "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
             "ext" : "https://agit.ai/guot54/TVBOXZY/raw/commit/3898cff2e637d6f41cf2307be86b649736e10123/JS/js/%e7%be%8e%e5%89%a7%e7%bd%91.js"
         },
-
-
 {"key": "搜狐资源","name": "️影视┃搜狐影视","type":1,"api":"http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","playUrl":"https://jx.xmflv.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
-
-
 
 //http://itvbox.cc/tvbox/云星日记/1.m3u8
     {
@@ -242,36 +238,20 @@ http://home.jundie.top:81/top98.json
 			"filterable": 1,
 			"playUrl": "json:https://www.itvbox.cc/fflz.php?url="
 },
-
-
 {
-
             "key" : "drpy_js_子子影视",
-
             "name" : "影视┃子子",
-
             "type" : 3,
-
             "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-
             "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.js"
-
         },
-
         {
-
             "key" : "drpy_js_创艺",
-
             "name" : "影视┃创艺",
-
             "type" : 3,
-
             "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-
             "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.js"
-
         },
-
 {"key": "影图影视","name": "影视┃影图(聚)","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 
 //星辰http://8.210.232.168/xc.json
@@ -886,7 +866,64 @@ http://home.jundie.top:81/top98.json
 {"key":"瞬间影视","name":"影视┃瞬间影视(聚)","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"创艺影视","name":"影视┃创艺影视(聚)","type":1,"api":"https://www.30dian.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
+//夜猫子也有备用官源
+{
+            "key": "dr_qxia",
+            "name": "🍂秋霞",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E7%A7%8B%E9%9C%9E.js"
+        },
+ {
+       "key":"影视",
+       "name":"🐱夜猫影视",
+       "type":1,
+       "api":"http://137.220.194.6:17264/api.php/provide/vod/",
+       "playUrl":"https://jx.jsonplayer.com/player/?url=",
+        "searchable":1,
+        "quickSearch":1, 
+        "categories":[
+        "二次元动漫",
+        "电影",
+        "电视剧",
+        "综艺"
+       ]
+       },     	
+{"key":"drpy_qy","name":"🐵奇优影院","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/奇优影院.js"},
 
+ {"key":"drpy_yak","name":"😻粤爱看","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/粤爱看.js"},
+{"key": "drpy_js_楚门影院.js]",
+			"name": " 🛫| 楚门影院.js",
+			"type": 3,
+			"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+			"ext": "https://agit.ai/ixinshang/dr_py/raw/branch/master/js/楚门影院.js"
+		},
+{
+            "key": "dr_263",
+            "name": "🌺高清MV",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/MV263.js"
+        },
+        {
+            "key": "dr_pgdj",
+            "name": "🍎苹果dj",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E8%8B%B9%E6%9E%9CDJ.js"
+        },
+{"key":"da_ry","name":"🎵音乐┃MV", "type": 4,"api":"http://120.53.102.254/dsp/","searchable": 1,"quickSearch": 1,"filterable":1},
+{"key":"js_DJ","name":"🎧DJ┃摇摆吧","type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js","ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/DJ音乐.js","playerType":"2"},
+{"key":"drpy_qf","name":"清风DJ","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/清风DJ.js"},		         
 
 
 
