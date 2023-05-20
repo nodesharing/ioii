@@ -26,8 +26,8 @@ http://home.jundie.top:81/top98.json
 
 
 //  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
-// "spider": "./top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
-  "spider": "http://home.jundie.top:81/jar/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
+ "spider": "./top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
+//  "spider": "http://home.jundie.top:81/jar/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
   "lives": [
     {
       "name": "直播",
