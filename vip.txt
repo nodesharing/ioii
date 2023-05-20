@@ -468,7 +468,7 @@ http://home.jundie.top:81/top98.json
     "quickSearch":1,
     "filterable":1
     },
-    {
+     {
     "key":"drpy_88",
     "name":"球赛┃88",
     "type":3,
@@ -480,14 +480,14 @@ http://home.jundie.top:81/top98.json
 {"key":"drpy_js_酷客影院","name":"影视┃🆒酷酷影视","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/酷客影院.js"},
 {
             "key" : "drpy_js_三百六十",
-            "name" : "影视┃🍎360",
+            "name" : "影视┃360",
             "type" : 3,
             "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://download.kstore.space/download/4127/js/360影视.js"
         },
 {
 	  "key":"csp_8K",
-	  "name":"影视┃🌠八K之光",
+	  "name":"影视┃八K之光",
 	  "type":1,
 	  "api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/",
       "playUrl":"json:http://47.119.122.235:5566/json/free.php?url="
@@ -869,7 +869,7 @@ http://home.jundie.top:81/top98.json
 //夜猫子也有备用官源
 {
             "key": "dr_qxia",
-            "name": "🍂秋霞",
+            "name": "影视┃秋霞",
             "type": 3,
             "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
             "searchable": 0,
@@ -879,7 +879,7 @@ http://home.jundie.top:81/top98.json
         },
  {
        "key":"影视",
-       "name":"🐱夜猫影视",
+       "name":"影视┃夜猫",
        "type":1,
        "api":"http://137.220.194.6:17264/api.php/provide/vod/",
        "playUrl":"https://jx.jsonplayer.com/player/?url=",
@@ -892,11 +892,11 @@ http://home.jundie.top:81/top98.json
         "综艺"
        ]
        },     	
-{"key":"drpy_qy","name":"🐵奇优影院","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/奇优影院.js"},
+{"key":"drpy_qy","name":"影视┃奇优影院","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/奇优影院.js"},
 
  {"key":"drpy_yak","name":"😻粤爱看","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/粤爱看.js"},
 {"key": "drpy_js_楚门影院.js]",
-			"name": " 🛫| 楚门影院.js",
+			"name": " 影视┃楚门影院.js",
 			"type": 3,
 			"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
 			"ext": "https://agit.ai/ixinshang/dr_py/raw/branch/master/js/楚门影院.js"
@@ -1016,6 +1016,9 @@ http://home.jundie.top:81/top98.json
 {"name":"测","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
 
 {"name":"自己","type":1,"url":"http://json.84jia.com/api/?key=3n0GrGJ0JaB3fHbctK&url="},
+{"name":"自己","type":1,"url":"http://json.84jia.com/api/?key=2sOA5biwlQMNn7FPD6&url="},
+{"name":"自己","type":1,"url":"http://json.84jia.com/api/?key=gdttVOt7ltJQmPCQoB&url="},
+
 
 {"name":"自己1","type":1,"url":"https://s4.s100.vip:37811/home/api?type=ys&uid=2742611&key=dghilmnrxFJQTUX239&url="},
 
