@@ -477,7 +477,7 @@ http://home.jundie.top:81/top98.json
     },
     
 //分享者
-{"key":"drpy_js_酷客影院","name":"影视┃🆒酷酷影视","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/酷客影院.js"},
+{"key":"drpy_js_酷客影院","name":"影视┃酷酷","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/酷客影院.js"},
 {
             "key" : "drpy_js_三百六十",
             "name" : "影视┃360",
@@ -534,7 +534,7 @@ http://home.jundie.top:81/top98.json
         },
 {
             "key" : "drpy_js_奇珍异兽",
-            "name" : "影视┃奇珍异兽",
+            "name" : "解析┃奇珍异兽",
             "type" : 3,
             "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/奇珍异兽.js"
@@ -547,21 +547,21 @@ http://home.jundie.top:81/top98.json
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/酷云77.js"
         },{
             "key" : "drpy_js_菜狗",
-            "name" : "影视┃‍菜狗",
+            "name" : "解析┃‍菜狗",
             "type" : 3,
             "api" :"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/菜狗.js"
         },
          {
       "key": "drpy_js_腾云驾雾",
-      "name": "影视┃腾云驾雾",
+      "name": "解析┃腾云驾雾",
       "type": 3,
       "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
       "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/腾云驾雾.js"
     },
         {
       "key": "drpy_js_百忙无果",
-      "name": "影视┃百忙无果",
+      "name": "解析┃百忙无果",
       "type": 3,
       "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
       "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/百忙无果.js"
@@ -653,7 +653,7 @@ http://home.jundie.top:81/top98.json
         },
         {
     "key": "csp_xml_可米资源",
-    "name": "影视┃可米影视",
+    "name": "影视┃可米",
     "type": 1,
     "api": "https://cj.kemi.lol/api.php/provide/vod/?ac=list",
     "playUrl": "",
@@ -756,7 +756,7 @@ http://home.jundie.top:81/top98.json
 		},
 		{
 			"key": "drpy_小腾",
-			"name": "影视┃小Q",
+			"name": "解析┃小Q",
 			"type": 3,
 			"api": "https://agit.ai/qi169/myklok/raw/branch/master/libs/drpy.min.js",
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/腾云驾雾.js"
@@ -838,33 +838,33 @@ http://home.jundie.top:81/top98.json
 #
 #切片资源
 {"key":"77韩剧","name":"影视┃77韩剧(切)","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"快播资源","name":"影视┃快播资源(切)","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"光速资源","name":"影视┃光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"天空资源","name":"影视┃天空资源(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"FF9资源","name":"影视┃FF9资源(切)","type":1,"api":"https://www.ff9.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"易看资源","name":"影视┃易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"卧龙资源","name":"影视┃卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"新浪资源","name":"影视┃新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"鱼乐资源","name":"影视┃🐟︎鱼乐资源(切)","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"1080资源库","name":"影视┃1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
-{"key":"红牛资源","name":"影视┃红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"飞速资源","name":"影视┃飞速资源(切)","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"韩剧资源","name":"影视┃韩剧资源(切)","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"八戒资源","name":"影视┃八戒资源(切)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"快播资源","name":"影视┃快播(切)","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"光速资源","name":"影视┃光速(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"天空资源","name":"影视┃天空(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"FF9资源","name":"影视┃FF9(切)","type":1,"api":"https://www.ff9.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"易看资源","name":"影视┃易看(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"卧龙资源","name":"影视┃卧龙(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"新浪资源","name":"影视┃新浪(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"鱼乐资源","name":"影视┃︎鱼乐(切)","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"1080资源库","name":"影视┃1080(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
+{"key":"红牛资源","name":"影视┃红牛(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"飞速资源","name":"影视┃飞速(切)","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"韩剧资源","name":"影视┃韩剧(切)","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"八戒资源","name":"影视┃八戒(切)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 #
 #优质资源
-{"key":"U酷资源","name":"影视┃U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"龙腾资源","name":"影视┃龙腾资源(优)","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"U酷资源","name":"影视┃U酷(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"龙腾资源","name":"影视┃龙腾(优)","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 #
 #三方聚合
 
 {"key":"小鸟动漫","name":"影视┃小鸟动漫(聚)","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"海玉影视","name":"影视┃海玉影视(聚)","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"阿里影视","name":"影视┃阿里影视(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"海玉影视","name":"影视┃海玉(聚)","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"阿里影视","name":"影视┃阿里(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"热剧天堂","name":"影视┃热剧天堂(聚)","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"影视┃飘花电影(聚)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"瞬间影视","name":"影视┃瞬间影视(聚)","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"创艺影视","name":"影视┃创艺影视(聚)","type":1,"api":"https://www.30dian.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"瞬间影视","name":"影视┃瞬间(聚)","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"创艺影视","name":"影视┃创艺(聚)","type":1,"api":"https://www.30dian.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 //夜猫子也有备用官源
 {
@@ -892,11 +892,11 @@ http://home.jundie.top:81/top98.json
         "综艺"
        ]
        },     	
-{"key":"drpy_qy","name":"影视┃奇优影院","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/奇优影院.js"},
+{"key":"drpy_qy","name":"影视┃奇优","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/奇优影院.js"},
 
  {"key":"drpy_yak","name":"😻粤爱看","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/js/粤爱看.js"},
 {"key": "drpy_js_楚门影院.js]",
-			"name": " 影视┃楚门影院.js",
+			"name": " 影视┃楚门.js",
 			"type": 3,
 			"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
 			"ext": "https://agit.ai/ixinshang/dr_py/raw/branch/master/js/楚门影院.js"
