@@ -25,11 +25,12 @@ http://home.jundie.top:81/top98.json
 
 
 
-"doh":[{"name":"騰訊","url":"https://doh.pub/dns-query"},{"name":"阿里","url":"https://dns.alidns.com/dns-query"},{"name":"360","url":"https://doh.360.cn/dns-query"},{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
-
 //  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
 // "spider": "./top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
   "spider": "http://home.jundie.top:81/jar/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
+
+//自定义DNS是防劫持的
+"doh":[{"name":"騰訊","url":"https://doh.pub/dns-query"},{"name":"阿里","url":"https://dns.alidns.com/dns-query"},{"name":"360","url":"https://doh.360.cn/dns-query"},{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
   "lives": [
   {
       "name": "直播",
@@ -110,7 +111,21 @@ http://home.jundie.top:81/top98.json
       "rule": [
         "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"
       ]
-    }
+    },
+    //加快嗅探速度
+  //  "rules": [
+	    {
+	    	"name": "嗅探过滤",
+	    	"host": "*",
+	    	"rule": [
+	    		"http((?!http).){12,}?\\.(m3u8|mp4|ts|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+	    	],
+	    	"filter": [
+	    		"http((?!http).){12,}?\\.(js|css|png|jpg|png|ico|ru=)\\?.*"
+	    	]
+	    
+	    }
+//	],
   ],
   "sites": [
   	
@@ -144,7 +159,7 @@ http://home.jundie.top:81/top98.json
 
 
 
-{"key":"360_spider","name":"️360影视(官)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+//{"key":"360_spider","name":"️360影视(官)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"dr_兔小贝1","name":"兔小贝","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/兔小贝.js"},
 
 
@@ -470,13 +485,7 @@ http://home.jundie.top:81/top98.json
     "quickSearch":1,
     "filterable":1
     },
-     {
-    "key":"drpy_88",
-    "name":"球赛┃88",
-    "type":3,
-    "api":"http://8.210.232.168/tv/box/js/lib/drpy2.1.min.js",
-    "ext":"http://8.210.232.168/tv/box/js/88看球.js"
-    },
+ 
     
 //分享者
 {"key":"drpy_js_酷客影院","name":"影视┃酷酷","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/酷客影院.js"},
@@ -570,8 +579,8 @@ http://home.jundie.top:81/top98.json
       "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/百忙无果.js"
     },
     {"key": "dr_优酷2","name": "影视┃优酷","type": 3,"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/js/js/优酷.js"},
-    {"key":"drpy_js_B站影视","name":"影视┃🅱️B站影视","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/B站影视.js"},
-{"key":"drpy_js_孜然影视","name":"影视┃孜然影视","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/孜然影视.js"},
+    {"key":"drpy_js_B站影视","name":"影视┃🅱️B站","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/B站影视.js"},
+{"key":"drpy_js_孜然影视","name":"影视┃孜然","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/孜然影视.js"},
 
 {
             "key": "dr_素白白",
@@ -781,13 +790,7 @@ http://home.jundie.top:81/top98.json
 			"api": "https://agit.ai/qi169/myklok/raw/branch/master/libs/drpy.min.js",
 			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/百忙无果.js"
 		},
-		{
-			"key": "drpy_LIBV",
-			"name": "影视┃利奥",
-			"type": 3,
-			"api": "https://agit.ai/qi169/myklok/raw/branch/master/libs/drpy.min.js",
-			"ext": "https://gitea.com/ikan/myp/raw/branch/master/js/LIBVIO.js"
-		},
+		
 		{
 			"key": "drpy_创艺",
 			"name": "影视┃创艺",
@@ -825,11 +828,6 @@ http://home.jundie.top:81/top98.json
 		{key:'快播资源',name:'影视┃快播资源',type:1,api:'http://www.kuaibozy.com/api.php/provide/vod/',searchable:1,quickSearch:1},
 		
 		//zzzz1
-## 广大侠 资源网采集
-#官方解析
-//{"key":"6U资源","name":"影视┃6U(官)","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-//{"key":"天堂资源","name":"影视┃天堂(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
 #
 #切片资源
 {"key":"77韩剧","name":"影视┃77韩剧(切)","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -848,19 +846,15 @@ http://home.jundie.top:81/top98.json
 {"key":"八戒资源","name":"影视┃八戒(切)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 #
 #优质资源
-//{"key":"U酷资源","name":"影视┃U酷(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"龙腾资源","name":"影视┃龙腾(优)","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 #
 #三方聚合
 
 {"key":"小鸟动漫","name":"影视┃小鸟动漫(聚)","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"海玉影视","name":"影视┃海玉(聚)","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-//{"key":"阿里影视","name":"影视┃阿里(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"热剧天堂","name":"影视┃热剧天堂(聚)","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"影视┃飘花电影(聚)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-//{"key":"瞬间影视","name":"影视┃瞬间(聚)","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-//{"key":"创艺影视","name":"影视┃创艺(聚)","type":1,"api":"https://www.30dian.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 //夜猫子也有备用官源
 {
@@ -1017,7 +1011,7 @@ http://home.jundie.top:81/top98.json
 
 
 {"name":"自己","type":1,"url":"https://s4.s100.vip:37811/home/api?type=ys&uid=2742611&key=dghilmnrxFJQTUX239&url="},
-//{"name":"自己","type":1,"url":"http://xiaoxin.1080p.me/api/?key=d7b238fcbc9b16f0f97c26db8a81ed61&url="},
+{"name":"自己","type":1,"url":"http://xiaoxin.1080p.me/api/?key=d7b238fcbc9b16f0f97c26db8a81ed61&url="},
 
 //{"name":"自己2","type":1,"url":"https://api.json.icu/api/?key=1d697fb34add66e20f45e82f0b99f725&url="},
 
