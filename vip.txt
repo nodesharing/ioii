@@ -996,13 +996,14 @@ http://home.jundie.top:81/top98.json
 "type": 3,
 "url": "Web",
 "header": {
-"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+"User-Agent": /*"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"*/
+ "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G9860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/20.1 Chrome/106.0.5249.126 Mobile Safari/537.36"
 }
 },
 //{"name":"Json聚合","type":3,"url":"Demo"},
 //{"name":"并发","type":2,"url":"Parallel"},
 //{"name":"轮询","type":2,"url":"Sequence"},
-
+{"name":"自己","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=9107789&key=aflstuzAEGHKMRV456&url="},
 {"name":"自己","type":1,"url":"http://json.84jia.com/api/?key=jCJSh0ZbUbE0TLXFoV&url="},
 {"name":"自己","type":1,"url":"http://json.84jia.com/api/?key=6rbdtQ1vM4NJvzn109&url="},
 
