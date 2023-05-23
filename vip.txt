@@ -1003,18 +1003,19 @@ http://home.jundie.top:81/top98.json
 //{"name":"Json聚合","type":3,"url":"Demo"},
 //{"name":"并发","type":2,"url":"Parallel"},
 //{"name":"轮询","type":2,"url":"Sequence"},
-{"name":"自己","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=9107789&key=aflstuzAEGHKMRV456&url="},
-{"name":"自己","type":1,"url":"http://json.84jia.com/api/?key=jCJSh0ZbUbE0TLXFoV&url="},
-{"name":"自己","type":1,"url":"http://json.84jia.com/api/?key=6rbdtQ1vM4NJvzn109&url="},
+{"name":"自己","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=9494573&key=eipqvxzDFIJKLMPST3&url="},
+{"name":"自己1","type":1,"url":"http://json.84jia.com/api/?key=DkBNj2cbpbFDhOYR5G&url="},
+//http://yhjx.6ys6.top/user/login
+{"name":"自己2","type":1,"url":" https://s4.s100.vip:37811/home/api?type=ys&uid=4198475&key=cefhjlnqsxABFGSZ59&url="},
+{"name":"自己3","type":1,"url":" https://api.m3u8.tv:5678/home/api?type=ys&uid=57322123&key=chkmnvwxABGILMUX78&url="},
+
+{"name":"自己4","type":1,"url":"http://xiaoxin.1080p.me/api/?key=e59a2dc148ca364baa0e07db5a24dd9f&url="},
+{"name":"自己5","type":1,"url":"https://api.json.icu/api/?key=b6c4610641f462ee733161031d5b744f&url="},
 
 {"name":"测","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
 {"name":"肥猫","type":1,"url":"http://我是.肥猫.love:63/Art0425/analysis.php?v="},
 
 
-{"name":"自己","type":1,"url":"https://s4.s100.vip:37811/home/api?type=ys&uid=2742611&key=dghilmnrxFJQTUX239&url="},
-{"name":"自己","type":1,"url":"http://xiaoxin.1080p.me/api/?key=d7b238fcbc9b16f0f97c26db8a81ed61&url="},
-
-//{"name":"自己2","type":1,"url":"https://api.json.icu/api/?key=1d697fb34add66e20f45e82f0b99f725&url="},
 
 
 
