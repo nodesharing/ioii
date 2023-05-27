@@ -218,8 +218,7 @@ http://home.jundie.top:81/top98.json
 	"searchable": 1	
 	*"searchable:，这个为就是不允许搜索。*/	
 	"changeable": 1,	
-	/*蜂蜜官方文档只有changeable:换源	(0:關閉、1:2	
-啟用)*/
+	/*蜂蜜官方文档只有changeable:换源	(0:關閉、1:啟用)*/
 	"ext":"https://dpaste.com/296S4NSUE.txt"	
 	"jar":"https://hub.gitmirror.com/https://raw.	
 githubusercontent.com/lllyin/assets/master/fm.png;md5;945ad30d5255359385ba59b8fb061bb7"
