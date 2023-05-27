@@ -195,6 +195,18 @@ http://home.jundie.top:81/top98.json
 //	],
   ],
   "sites": [
+    {
+            "key": "csp_Upyunso",
+            "name": "UP云┃盘搜",
+            "type": 3,
+            "api": "csp_Upyunso",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./alitoken.txt"
+            "jar":"./XYQTVBox.jar"
+        },
   	    {
       "key": "AliPS",
       "name": "AliPS",
@@ -204,8 +216,8 @@ http://home.jundie.top:81/top98.json
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"./alitoken.txt",
-      "jar":"./XYQTVBox.jar"
+      "ext": "./alitoken.txt",
+      "jar": "./XYQTVBox.jar;md5;8700aa2e286756b098a8faec2f037606"
     },
 {"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
