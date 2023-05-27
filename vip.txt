@@ -199,7 +199,18 @@ http://home.jundie.top:81/top98.json
 {"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-
+  {
+            "key": "csp_Upyunso",
+            "name": "UP云┃盘搜",
+            "type": 3,
+            "api": "csp_Upyunso",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./alitoken.txt"
+            "jar":"./XYQTVBox.jar"
+        },
 
 //月光
 { "key": "js豆瓣1","name": "电视TV","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
