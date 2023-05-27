@@ -201,30 +201,6 @@ http://home.jundie.top:81/top98.json
 {"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 
 
-     {
-        "key":"蜂蜜新泥巴",
-        "name":"蜂蜜新泥巴",
-	"type": 3,	
-	"api": "csp_NiNi",	
-	"searchable": 1,
-	"changeable": 1,	
-	"jar":"http://midi.moe/f/jnlzv.png;md5;945ad30d5255359385ba59b8fb061bb7"
-	},	
-	{	
-	"key":"獨播",	
-	"name":"獨播",	
-	"type": 3,	
-	"api": "csp_XPathMacFilter",	
-	"searchable": 1,
-        /*"searchable:，这个为就是不允许搜索。*/	
-	"changeable": 1,
-	/*蜂蜜官方文档只有changeable:换源	(0:關閉、1:啟用)*/
-	"ext":"https://dpaste.com/296S4NSUE.txt",	
-	"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/lllyin/assets/master/fm.png;md5;945ad30d5255359385ba59b8fb061bb7"
-	}，
-
-
-
 //月光
 { "key": "js豆瓣1","name": "电视TV","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 {
