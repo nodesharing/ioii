@@ -200,7 +200,7 @@ http://home.jundie.top:81/top98.json
 {"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./XYQTVBox/custom_spider.jar"},
+{"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"./custom_spider.jar"},
 
  
 
