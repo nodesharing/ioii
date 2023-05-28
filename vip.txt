@@ -249,7 +249,7 @@ http://home.jundie.top:81/top98.json
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/xx1.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ebb1f03776fe4cb56896b10b7834739c"
               },
         {
             "key": "少儿教育",
@@ -260,7 +260,7 @@ http://home.jundie.top:81/top98.json
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/xx2.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ebb1f03776fe4cb56896b10b7834739c"
         },
         {
             "key": "小学课堂",
@@ -271,7 +271,7 @@ http://home.jundie.top:81/top98.json
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/xx3.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ebb1f03776fe4cb56896b10b7834739c"
         },
         {
             "key": "初中课堂",
@@ -282,7 +282,7 @@ http://home.jundie.top:81/top98.json
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/xx4.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ebb1f03776fe4cb56896b10b7834739c"
         },
         {
             "key": "高中教育",
@@ -293,7 +293,7 @@ http://home.jundie.top:81/top98.json
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/xx5.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ebb1f03776fe4cb56896b10b7834739c"
         },
         		{
 			"key": "学习",
