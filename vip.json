@@ -220,9 +220,9 @@
  "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G9860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/20.1 Chrome/106.0.5249.126 Mobile Safari/537.36"
 }
 },
-//{"name":"Json聚合","type":3,"url":"Demo"},
-//{"name":"并发","type":2,"url":"Parallel"},
-//{"name":"轮询","type":2,"url":"Sequence"},
+{"name":"Json聚合","type":3,"url":"Demo"},
+{"name":"并发","type":2,"url":"Parallel"},
+{"name":"轮询","type":2,"url":"Sequence"},
 //user
 {"name":"自己","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=10325929&key=acehklnozBDNOSZ046&url="},
 {"name":"自己1","type":1,"url":"http://json.84jia.com/api/?key=TyxQmz1KfM5TTfjyWF&url="},
