@@ -28,13 +28,10 @@
         }
     ],
     "sites": [
-        {
-            "key" : "drpy_js_奇珍异兽",
-            "name" : "解析┃奇珍异兽",
-            "type" : 3,
-            "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/奇珍异兽.js"
-        },
+        {"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"http://home.jundie.top:81/jar/top98_1.jar"},
+        {"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/jar/top98_1.jar"},
+        {"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://home.jundie.top:81/jar/top98_1.jar"},
+
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
         //{"key":"csp_Alist","name":"💾Alist(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./Alist.json"},
         {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt"},
@@ -214,9 +211,9 @@
         
     ],
     "parses": [
-        {"name":"解析聚合","type":3,"url":"Demo"},
-        {"name":"Json并发","type":2,"url":"Parallel"},
-        {"name":"Json轮询","type":2,"url":"Sequence"},
+        //{"name":"解析聚合","type":3,"url":"Demo"},
+        //{"name":"Json并发","type":2,"url":"Parallel"},
+        //{"name":"Json轮询","type":2,"url":"Sequence"},
         {"name":"-香-","type":0,"url":"https://jx.m3u8.pw/?url="},
         {"name":"-雅-","type":0,"url":"https://jx.xmflv.com/?url="},
         {"name":"-情-","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
