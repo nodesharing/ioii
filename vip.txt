@@ -213,6 +213,24 @@ http://home.jundie.top:81/top98.json
 
 
 
+        //{"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        {"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        {"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        {"key":"csp_Yisou","name":"📀易搜(搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        {"key":"csp_Upyunso","name":"📀UP云搜(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        {"key": "csp_XYQHiker_土拨鼠搜索","name":"📀土拨鼠(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/nMQiVGDQ","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/74j4mxtR","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        //{"key": "csp_XYQHikerAL_4KHDR","name":"📀🧲4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":0,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/4KHDR.json","jar":"./custom_spider.jar"},
+        {"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/GtdSRyRt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        {"key": "csp_XYQHikerAL_我的小站","name":"📀我的小站(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/sCPJH1h2","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/dEFpSeZg","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        //{"key": "csp_XYQHikerAL_豆豆飞","name":"📀豆豆飞(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/豆豆飞.json","jar":"./custom_spider.jar"},
+        {"key": "csp_XYQHiker_土狗搜索","name":"📀土狗(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/Nk4WTHpP","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/gqK498w8","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        {"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(搜索)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/v2muLKyR","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/HAkks06P","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
+
 
 
 
@@ -1153,31 +1171,7 @@ http://home.jundie.top:81/top98.json
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
-    },
-    
-    
-    
-    
-        //{"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        {"key":"csp_Zhaozy","name":"📀找资源撒(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        {"key":"csp_AliPS","name":"📀喵狸盘搜撒(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        {"key":"csp_Yisou","name":"📀易搜撒(搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        {"key":"csp_Upyunso","name":"📀UP云搜撒(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        {"key": "csp_XYQHiker_土拨鼠搜索","name":"📀土拨鼠(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/nMQiVGDQ","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/74j4mxtR","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        //{"key": "csp_XYQHikerAL_4KHDR","name":"📀🧲4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":0,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/4KHDR.json","jar":"./custom_spider.jar"},
-        {"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/GtdSRyRt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        {"key": "csp_XYQHikerAL_我的小站","name":"📀我的小站(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/sCPJH1h2","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/dEFpSeZg","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        //{"key": "csp_XYQHikerAL_豆豆飞","name":"📀豆豆飞(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/豆豆飞.json","jar":"./custom_spider.jar"},
-        {"key": "csp_XYQHiker_土狗搜索","name":"📀土狗(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/Nk4WTHpP","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/gqK498w8","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        {"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(搜索)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/v2muLKyR","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/HAkks06P","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"},
-        {"key":"push_agent","name":"📽推送撒","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;81957fdd1fd73255d47741f17bef98d6"}
-
-
-    
+    }
     
       
   ],
