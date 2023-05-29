@@ -101,7 +101,7 @@ http://home.jundie.top:81/top98.json
   {
       "name": "直播",
       "type": 0,
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+      "url": "https://raw.gitmirror.com/nodesharing/ioii/master/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
     {
@@ -110,7 +110,7 @@ http://home.jundie.top:81/top98.json
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9ub2Rlc2hhcmluZy9pb2lpL21hc3Rlci9saXZlLnR4dA=="
           ]
         }
       ],
