@@ -1,6 +1,11 @@
 /*
 原链接
 http://home.jundie.top:81/top98.json
+ //searchable：搜索(0：关闭、1：启用)
+ quickSearch快搜，快搜就是详情界面那里的那个
+ filterable：筛选(0：关闭、1：启用)
+ changeable：换源(0：关闭、1：启用)
+ playerType：播放器(1：IJK、2：EXO)
 */
 
 
@@ -57,6 +62,10 @@ http://home.jundie.top:81/top98.json
   
   "sites": [
 
+
+
+
+
 {"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
@@ -107,7 +116,7 @@ http://home.jundie.top:81/top98.json
         //{"key": "csp_XYQHiker_土狗搜索","name":"📀土狗(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/Nk4WTHpP","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/gqK498w8","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         {"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(搜索)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/v2muLKyR","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
-        //{"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/HAkks06P","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
+        {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/HAkks06P","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         {"key":"push_agent","name":"📽推送撒","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
 
 
@@ -125,7 +134,7 @@ http://home.jundie.top:81/top98.json
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json",
-            "jar": "https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"
+            "jar": "http://m35.grelighting.cn/html/ccc.jar;md5;C37C34107A528D50706B26E6BC37253F"
 		},
         {
             "key": "课堂教育",
@@ -183,6 +192,7 @@ http://home.jundie.top:81/top98.json
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;ebb1f03776fe4cb56896b10b7834739c"
         },
         		{
+        		//小苹果https://agit.ai/leevi/apps/raw/branch/main/xpg.json
 			"key": "学习",
 			"name": "📝学习园地",
 			"type": 3,
@@ -191,8 +201,18 @@ http://home.jundie.top:81/top98.json
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json",
-            "jar": "https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"
+            "jar": "http://m35.grelighting.cn/html/ccc.jar;md5;C37C34107A528D50706B26E6BC37253F"
 		},
+
+
+//运输车
+{"key":"高中教育撒","name":"📚学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/Blixt.json","jar": "https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"},
+{"key":"学外语","name":"📚学外语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/waiyu.json","jar": "https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"},
+//{"key":"软件教程","name":"📚软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/jiaocheng.json"},
+
+
+
+
 	{
 			"key": "软件",
 			"name": "📚软件教程",
@@ -202,7 +222,7 @@ http://home.jundie.top:81/top98.json
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json",
-            "jar": "https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C"
+            "jar": "http://m35.grelighting.cn/html/ccc.jar;md5;C37C34107A528D50706B26E6BC37253F"
 		},
 
 
