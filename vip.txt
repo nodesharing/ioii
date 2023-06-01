@@ -103,6 +103,26 @@ http://home.jundie.top:81/top98.json
 
 
 
+        {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
+        {"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
+        {"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
+        {"key":"csp_Yisou","name":"📀易搜(搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
+        {"key":"csp_Upyunso","name":"📀UP云搜(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
+        {"key": "csp_XYQHiker_土拨鼠搜索","name":"📀土拨鼠(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/土拨鼠搜索.json"},
+        {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
+        {"key": "csp_XYQHikerAL_4KHDR","name":"📀🧲4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":0,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/4KHDR.json"},
+        {"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/云盘资源分享.json"},
+        {"key": "csp_XYQHikerAL_我的小站","name":"📀我的小站(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/我的小站.json"},
+        {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/阿里云盘网.json"},
+        {"key": "csp_XYQHikerAL_豆豆飞","name":"📀豆豆飞(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/豆豆飞.json"},
+        //失效{"key": "csp_XYQHiker_土狗搜索","name":"📀土狗(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/土狗搜索.json"},
+        {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/DOVX搜索.json"},
+        {"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(搜索)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/云盘分享.json"},
+        {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://116.179.32.161.com/XYQTVBox/XYQHiker/盘搜索.json"},
+        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
+
+
+
 
 
 
@@ -1118,13 +1138,32 @@ http://home.jundie.top:81/top98.json
  "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G9860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/20.1 Chrome/106.0.5249.126 Mobile Safari/537.36"
 }
 },
+
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo",
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "Web解析",
+      "type": 3,
+      "url": "Web",
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+
+
 //{"name":"Json聚合","type":3,"url":"Demo"},
 //{"name":"并发","type":2,"url":"Parallel"},
 //{"name":"轮询","type":2,"url":"Sequence"},
 //user
 {"name":"自己","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=10719755&key=dntvyzABFHJLSUX036&url="},
-{"name":"自己","type":1,"url":"http://api.jiexi.plus/api/?key=489b36931e6bb70661cd76c9f856d33f&url="},
-{"name":"自己","type":1,"url":"http://daina.hk/api/?key=beefd994aa36292b0eef7903cf304c01&url="},
+{"name":"自己p","type":1,"url":"http://api.jiexi.plus/api/?key=489b36931e6bb70661cd76c9f856d33f&url="},
+{"name":"自己0","type":1,"url":"http://daina.hk/api/?key=beefd994aa36292b0eef7903cf304c01&url="},
 
 
 {"name":"自己1","type":1,"url":"http://json.84jia.com/api/?key=M3pBpbLPkOVowI6WLU&url="},
