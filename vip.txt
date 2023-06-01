@@ -102,7 +102,7 @@ http://home.jundie.top:81/top98.json
 
 
         {"key":"Gitcafe","name":"📀小纸条撒(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://XYQTVBox/alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
-        {"key":"csp_Zhaozy","name":"📀找资源撒(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
+        {"key":"csp_Zhaozy","name":"📀找资源撒(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/nodesharing/ioii/master/alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         {"key":"csp_AliPS","name":"📀喵狸盘搜撒(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         {"key":"csp_Yisou","name":"📀易搜撒(搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         {"key":"csp_Upyunso","name":"📀UP云搜撒(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
