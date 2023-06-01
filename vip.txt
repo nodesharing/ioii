@@ -91,7 +91,6 @@ http://home.jundie.top:81/top98.json
         {"key":"csp_Czsapp","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy03.com","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         {"key":"csp_Bdys","name":"🐞哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         {"key":"csp_Ddys","name":"🐞低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
-        {"key":"csp_appys_ky","name":"🏂酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
 		{"key":"csp_appys_g","name":"DM影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         {"key":"csp_Kunyu77","name":"🐞77影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         //{"key": "csp_LiteApple","name": "🍎小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://t.grelighting.cn/html/xpg102.jar;md5;bc95d810af9fab60c0781280ba56d6b1"},
@@ -102,7 +101,7 @@ http://home.jundie.top:81/top98.json
 
 
 
-        {"key":"Gitcafe","name":"📀小纸条撒(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
+        {"key":"Gitcafe","name":"📀小纸条撒(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://XYQTVBox/alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         {"key":"csp_Zhaozy","name":"📀找资源撒(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         {"key":"csp_AliPS","name":"📀喵狸盘搜撒(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
         {"key":"csp_Yisou","name":"📀易搜撒(搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"},
@@ -950,6 +949,54 @@ http://home.jundie.top:81/top98.json
 {"key":"热剧天堂","name":"影视┃热剧天堂(聚)","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"影视┃飘花电影(聚)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
+  {
+   "key": "csp_xml_红谷",
+   "name": "🌆┃红谷┃采集",
+   "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+   "api": "https://tv.hgyx.vip/api.php/provide/vod/from/hgyx/",      
+            "categories": [
+                "4k影视片",
+                "4k影视剧",
+                "4k动漫",
+                "综艺"
+            ]
+        }, 
+          {
+   "key": "csp_xml_初雨",
+   "name": "┃初雨┃影视",
+   "type": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/",
+      "categories": [
+        "电影",
+        "动漫",
+        "连续剧",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "海外剧",
+        "动作片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "奇幻片",
+        "战争片",
+        "犯罪片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "冒险片"
+      ]
+    },
+
+
+
 
 //夜猫子也有备用官源
 {
@@ -1250,6 +1297,9 @@ http://home.jundie.top:81/top98.json
 	    
 	    },
 //	],
+//{"name": "量子廣告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+//{"name": "非凡廣告","hosts": ["vip.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+
 {"name": "火山嗅探","host": ["huoshan.com"],"regex": ["item_id="]},
 {"name": "抖音嗅探","host": ["douyin.com"],"regex": ["is_play_url="]}
 
