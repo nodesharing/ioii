@@ -137,6 +137,7 @@ http://home.jundie.top:81/top98.json
 
 
 
+
         {"key": "csp_XYQHiker_兔小贝2","name":"兔小贝2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./兔小贝2.json","jar":"./custom_spider.jar"},
         {"key": "csp_XYQHiker_播视童趣","name":"播视童趣(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./播视童趣.json","jar":"./custom_spider.jar"},
 
