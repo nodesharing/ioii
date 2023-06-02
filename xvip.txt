@@ -133,9 +133,10 @@ http://home.jundie.top:81/top98.json
 
 
 
+        {"key": "csp_XYQHiker_播视童趣1","name":"播视童趣(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://XYQHiker/播视童趣.json"},
 
-        {"key": "csp_XYQHiker_兔小贝2","name":"兔小贝2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./兔小贝2.json"},
-        {"key": "csp_XYQHiker_播视童趣","name":"播视童趣(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./播视童趣.json"},
+        {"key": "csp_XYQHiker_兔小贝2","name":"兔小贝2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://兔小贝2.json"},
+        {"key": "csp_XYQHiker_播视童趣","name":"播视童趣(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://XYQTVBox/XYQHiker/播视童趣.json"},
 
 {
 			"key": "儿童",
@@ -1076,7 +1077,6 @@ http://home.jundie.top:81/top98.json
 
 
 {"key" : "drpy_js_虎牙","name" : "🦷虎牙直播","type" : 3,"api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext" : "https://agit.ai/guot54/ygbh/raw/branch/master/JS/hy%e7%9b%b4%e6%92%ad.js"},
-{"key":"csp_xbb_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/斗鱼.json"},
 {"key":"csp_xp_meiju56","name":"影视┃💢美剧网","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/meiju562.json"},
 
 //分享者https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8
@@ -1089,51 +1089,6 @@ http://home.jundie.top:81/top98.json
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-     {
-            "key": "XBPQ_69美剧",
-            "name": "影视┃💛69┃美剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "ext": "https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/69美剧.js"
-        },
-    {"key": "csp_biubiu_短视频","name": "️短视频(XB)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "分类url:http://www.sharenice.net/{cateId}?page={catePg},分类:抖音,直接播放:1,嗅探词:play/?#?item#qianpailive#.flv#mp4"},
-    {
-      "key": "csp_xb_lib",
-      "name": "影视┃LIB(XBiu)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
-    },
-  
-
-    {
-      "key": "csp_xb_zbk",
-      "name": "影视┃真不卡(XBiu)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"
-    },
-    {
-      "key": "csp_xb_ysgc",
-      "name": "影视┃影视工厂(XBiu)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
     }
     
       
