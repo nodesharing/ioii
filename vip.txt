@@ -64,6 +64,7 @@ http://home.jundie.top:81/top98.json
   "sites": [
 
 
+{"key":"drpy_js_奇珍异兽1","name":"🐨┃爱奇┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
 
        {"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
         {"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -1826,9 +1827,9 @@ http://home.jundie.top:81/top98.json
 //{"name":"并发","type":2,"url":"Parallel"},
 //{"name":"轮询","type":2,"url":"Sequence"},
 //user
-{"name":"自己","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=10719755&key=dntvyzABFHJLSUX036&url="},
-{"name":"自己1","type":1,"url":"http://api.jiexi.plus/api/?key=489b36931e6bb70661cd76c9f856d33f&url="},
-{"name":"自己2","type":1,"url":"http://daina.hk/api/?key=beefd994aa36292b0eef7903cf304c01&url="},
+{"name":"自己","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=12684549&key=chmpqruBCHLPUWY357&url="},
+{"name":"自己1","type":1,"url":"http://api.jiexi.plus/api/?key=1f9dc9148101ec54a0f49a3a4ffcce59&url="},
+//{"name":"自己2","type":1,"url":"http://daina.hk/api/?key=beefd994aa36292b0eef7903cf304c01&url="},
 
 
 {"name":"自己3","type":1,"url":"http://json.84jia.com/api/?key=4dbn7O4tlzcNwCPfui&url="},
