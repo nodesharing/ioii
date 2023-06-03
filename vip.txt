@@ -34,7 +34,7 @@ http://home.jundie.top:81/top98.json
 //  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
 // "spider": "./top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
 //  "spider": "http://home.jundie.top:81/jar/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
-   "spider": "clab://XYQTVBox/custom_spider.jar;md5;0ad4aa986e718133136028d6d299ccf0",
+   "spider": "clan://XYQTVBox/custom_spider.jar;md5;0ad4aa986e718133136028d6d299ccf0",
 
 //自定义DNS是防劫持的
 "doh":[{"name":"騰訊","url":"https://doh.pub/dns-query"},{"name":"阿里","url":"https://dns.alidns.com/dns-query"},{"name":"360","url":"https://doh.360.cn/dns-query"},{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
@@ -813,7 +813,16 @@ http://home.jundie.top:81/top98.json
 
 
 
-
+     {
+            "key": "360", 
+            "name": "360┃解析", 
+            "type": 3, 
+            "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js", 
+            "ext": "http://xhww.fun:63/小米/源/360.js", 
+            "searchable": 0, 
+            "quickSearch": 0, 
+            "filterable": 0
+        }, 
 		{
             "key": "csp_beijihu",      
 			"name": "北极狐┃影视",
@@ -826,7 +835,231 @@ http://home.jundie.top:81/top98.json
 			        // "jar":"https://raw.gitmirror.com/nodesharing/ioii/master/fm.jar;md5;ebb1f03776fe4cb56896b10b7834739c"
 
         },  
+      {
+            "key": "PPY", 
+            "name": "鸭鸭┃采集", 
+            "type": 1, 
+            "api": "https://www.pipiya.cc/api.php/provide/vod/", 
+            "playUrl": "json:http://xhww.fun:63/%E7%B1%B3%E9%A5%AD.php?url=", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        }, 
+        {
+            "key": "轻简", 
+            "name": "简简┃采集", 
+            "type": 1, 
+            "api": "http://1.ahailove.cn:23455/cj/api.php/provide/vod/", 
+            "playUrl": "json:http://xhww.fun:63/%E7%B1%B3%E9%A5%AD.php?url=", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "categories": [
+                "电影", 
+                "电视剧", 
+                "综艺", 
+                "动漫"
+            ]
+        }, 
+        {
+            "key": "初语", 
+            "name": "初语┃采集", 
+            "type": 1, 
+            "api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/from/chuyu/", 
+            "playUrl": "json:http://xhww.fun:63/%E7%B1%B3%E9%A5%AD.php?url=", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "categories": [
+                "电影", 
+                "连续剧", 
+                "综艺", 
+                "动漫"
+            ]
+        }, 
 
+
+        {
+            "key": "酷影", 
+            "name": "泰泰┃APP", 
+            "type": 3, 
+            "api": "csp_AppYsV2", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "ext": "https://www.kuin.one/api.php/app/"
+        }, 
+        {
+            "key": "酷酷", 
+            "name": "酷酷┃APP", 
+            "type": 3, 
+            "api": "csp_AppYsV2", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "ext": "https://www.tvkuys.xyz/api.php/app/"
+        }, 
+        {
+            "key": "瑞丰", 
+            "name": "辣辣┃APP", 
+            "type": 3, 
+            "api": "csp_AppYsV2", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "ext": "http://hdvod.top/ruifenglb_api.php/v1.vod"
+        }, 
+        {
+            "key": "csp_aidi", 
+            "name": "爱迪┃APP", 
+            "type": 3, 
+            "api": "csp_AppYsV2", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+        }, 
+
+        {
+            "key": "3412", 
+            "name": "熊熊┃APP", 
+            "type": 1, 
+            "api": "https://v.3412.net.cn/macapi.php/provide/vod", 
+            "playUrl": "https://player.3412.net.cn/?url=", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        }, 
+        {
+            "key": "蓝光官采", 
+            "name": "猫咪┃解析", 
+            "type": 1, 
+            "api": "http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "playUrl": "https://jx.jsonplayer.com/player/?url=", 
+            "filterable": 0, 
+            "categories": [
+                "国产剧", 
+                "综艺", 
+                "动漫", 
+                "香港剧", 
+                "动作片", 
+                "科幻片", 
+                "战争片", 
+                "奇幻片", 
+                "喜剧片", 
+                "爱情片", 
+                "恐怖片", 
+                "犯罪片", 
+                "悬疑片", 
+                "惊悚片", 
+                "剧情片", 
+                "冒险片", 
+                "记录片"
+            ]
+        }, 
+        {
+            "key": "Duomi", 
+            "name": "多米┃APP", 
+            "type": 3, 
+            "api": "csp_AppYsV2", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "ext": "http://vod.dmdh.top:5680/api.php/app/"
+        }, 
+        {
+            "key": "暴风资源", 
+            "name": "暴风┃采集", 
+            "type": 1, 
+            "api": "https://bfzyapi.com/api.php/provide/vod/", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "categories": [
+                "国产剧", 
+                "韩国剧", 
+                "香港剧", 
+                "台湾剧", 
+                "欧美剧", 
+                "动作片", 
+                "科幻片", 
+                "战争片", 
+                "奇幻片", 
+                "喜剧片", 
+                "爱情片", 
+                "恐怖片", 
+                "犯罪片", 
+                "悬疑片", 
+                "惊悚片", 
+                "剧情片", 
+                "冒险片", 
+                "记录片", 
+                "综艺", 
+                "动漫"
+            ]
+        }, 
+        {
+            "key": "非凡资源", 
+            "name": "非凡┃切片", 
+            "type": 1, 
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/", 
+            "searchable": 1, 
+            "playUrl": "json:http://jx.84jia.com/m3u8ts.php?url=", 
+            "quickSearch": 1, 
+            "categories": [
+                "国产剧", 
+                "韩国剧", 
+                "香港剧", 
+                "台湾剧", 
+                "欧美剧", 
+                "动作片", 
+                "科幻片", 
+                "战争片", 
+                "奇幻片", 
+                "喜剧片", 
+                "爱情片", 
+                "恐怖片", 
+                "犯罪片", 
+                "悬疑片", 
+                "惊悚片", 
+                "剧情片", 
+                "冒险片", 
+                "记录片", 
+                "综艺", 
+                "动漫"
+            ]
+        }, 
+        {
+            "key": "快看资源", 
+            "name": "快看┃切片", 
+            "type": 1, 
+            "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "categories": [
+                "国产剧", 
+                "韩国剧", 
+                "香港剧", 
+                "台湾剧", 
+                "欧美剧", 
+                "动作片", 
+                "科幻片", 
+                "战争片", 
+                "奇幻片", 
+                "喜剧片", 
+                "爱情片", 
+                "恐怖片", 
+                "犯罪片", 
+                "悬疑片", 
+                "惊悚片", 
+                "剧情片", 
+                "冒险片", 
+                "记录片", 
+                "综艺", 
+                "动漫"
+            ]
+        }, 
 
 
  
