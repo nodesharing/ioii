@@ -34,8 +34,8 @@ http://home.jundie.top:81/top98.json
 //  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
 // "spider": "./top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
 //  "spider": "http://home.jundie.top:81/jar/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
-//   "spider": "./XYQTVBox/custom_spider.jar;md5;6d9aedf249d6b2f6099fc599d75e58f2",
-  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;6d9aedf249d6b2f6099fc599d75e58f2",
+   "spider": "./XYQTVBox/custom_spider.jar;md5;6d9aedf249d6b2f6099fc599d75e58f2",
+//  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;6d9aedf249d6b2f6099fc599d75e58f2",
 
 //自定义DNS是防劫持的
 "doh":[{"name":"騰訊","url":"https://doh.pub/dns-query"},{"name":"阿里","url":"https://dns.alidns.com/dns-query"},{"name":"360","url":"https://doh.360.cn/dns-query"},{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
@@ -109,12 +109,11 @@ http://home.jundie.top:81/top98.json
         {"key": "csp_XYQHikerAL_我的小站","name":"📀我的小站(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/sCPJH1h2"},
         {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/dEFpSeZg"},
      //   {"key": "csp_XYQHikerAL_豆豆飞","name":"📀豆豆飞(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/豆豆飞.json"},
-        //失效{"key": "csp_XYQHiker_土狗搜索","name":"📀土狗(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/土狗搜索.json"},
+        {"key": "csp_XYQHikerAL_橘子盘搜","name":"📀橘子盘搜(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/Nk4WTHpP"},
  //       {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/gqK498w8"},
  //       {"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(搜索)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/v2muLKyR"},
 //        {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/HAkks06P"},
         {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-{"key": "csp_XYQHiker_土狗搜索","name":"🪀土狗搜索(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/土狗搜索.json ","jar":"https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"},
 
 {"key": "csp_XYQHiker_DOVX搜索","name":"🪀DOVX搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/DOVX搜索.json","jar":"https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"},
         {"key": "csp_XYQBiu_云盘分享","name":"🪀云盘分享","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/云盘分享.json","jar":"https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"},
@@ -235,7 +234,7 @@ http://home.jundie.top:81/top98.json
 			"name": "🅱️┃哔哩┃合集",
 			"type": 3,
 			"api": "csp_Bili",
-			"searchable": 1,
+			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://bitbucket.org/xduo/duoapi/raw/master/bili.json"
