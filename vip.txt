@@ -63,16 +63,7 @@ http://home.jundie.top:81/top98.json
 
   
   "sites": [
-{
-      "key": "公告",
-      "name": "公告",
-      "type": 3,
-      "api": "csp_Notice",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/notice.json",
-"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;83302c0b9c22927f527219dc290dc6ad"
-    },
+
 
 {"key":"drpy_js_奇珍异兽1","name":"🐨┃爱奇┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
 
