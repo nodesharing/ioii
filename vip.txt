@@ -10,6 +10,11 @@ http://home.jundie.top:81/top98.json
 
 
 {
+"spider":"https://60-188-230-87.d.cjjd15.com:30443/download-cdn.123pan.cn/123-242/6d9aedf2/1815043570-0/6d9aedf249d6b2f6099fc599d75e58f2/c-m2?v=5&t=1686067707&s=16860677074cb7af3ad478c1a0c6bd694a7d3cea4d&r=NT7H2Y&filename=custom_spider转码在前0603.jar&x-mf-biz-cid=14248674-9501-478b-9195-f997025401ea-47df1e&auto_redirect=0&xmfcid=ef8ceaf8-9db8-4b8d-999f-497d294dee38-1-50111d3b1",
+
+
+
+
 "wallpaper": "https://imgapi.cn/api.php?fl=dongman&gs=images",
 
 "warningText": "电视TV",
@@ -35,7 +40,7 @@ http://home.jundie.top:81/top98.json
 // "spider": "./top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
 //  "spider": "http://home.jundie.top:81/jar/top98_1.jar;md5;31259341cb1a5ed11da14804d14f1054",
 //   "spider": "./XYQTVBox/custom_spider.jar;md5;6d9aedf249d6b2f6099fc599d75e58f2",
-  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;6d9aedf249d6b2f6099fc599d75e58f2",
+//  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;6d9aedf249d6b2f6099fc599d75e58f2",
 
 //自定义DNS是防劫持的
 "doh":[{"name":"騰訊","url":"https://doh.pub/dns-query"},{"name":"阿里","url":"https://dns.alidns.com/dns-query"},{"name":"360","url":"https://doh.360.cn/dns-query"},{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
