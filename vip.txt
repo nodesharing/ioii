@@ -10,7 +10,7 @@ http://home.jundie.top:81/top98.json
 
 
 {
-"spider":"https://60-188-230-87.d.cjjd15.com:30443/download-cdn.123pan.cn/123-242/6d9aedf2/1815043570-0/6d9aedf249d6b2f6099fc599d75e58f2/c-m2?v=5&t=1686067707&s=16860677074cb7af3ad478c1a0c6bd694a7d3cea4d&r=NT7H2Y&filename=custom_spider转码在前0603.jar&x-mf-biz-cid=14248674-9501-478b-9195-f997025401ea-47df1e&auto_redirect=0&xmfcid=ef8ceaf8-9db8-4b8d-999f-497d294dee38-1-50111d3b1",
+"spider":"https://60-188-230-87.d.cjjd15.com:30443/download-cdn.123pan.cn/123-242/6d9aedf2/1815043570-0/6d9aedf249d6b2f6099fc599d75e58f2/c-m2?v=5&t=1686067707&s=16860677074cb7af3ad478c1a0c6bd694a7d3cea4d&r=NT7H2Y&filename=custom_spider转码在前0607.jar&x-mf-biz-cid=14248674-9501-478b-9195-f997025401ea-47df1e&auto_redirect=0&xmfcid=ef8ceaf8-9db8-4b8d-999f-497d294dee38-1-50111d3b1",
 
 
 
