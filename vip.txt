@@ -10,7 +10,7 @@ http://home.jundie.top:81/top98.json
 
 
 {
-  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;54852547e7fe603129db82fa60848e66",
+  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;14dd646d9955054157e0690c80f1bfe2",
 
 
 
