@@ -163,11 +163,11 @@ http://home.jundie.top:81/top98.json
    {"key":"芒果","name":"👼🏻 | 少儿频道2","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/mao/忙果.js"},
  {"key":"奇艺","name":"🧚 | 少儿频道3","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/mao/异兽.js"},
   {"key":"优酷","name":"🧜‍| 少儿频道4","type":3,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","ext":"https://download.kstore.space/download/3313/mao/优酷.js"},
-  {"key":"儿童","name":"📚┃少儿┃教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61578/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I%3D%3A0"},
+  {"key":"儿童","name":"📚┃少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61578/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I%3D%3A0"},
 
-{"key":"小学","name":"📚┃小学┃课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61579/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json?sign=Oqbf9547dxbhVTf07kdHsuNZgzIWH2UT9uY7zRbTA5M%3D%3A0"},
+{"key":"小学","name":"📚┃小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61579/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json?sign=Oqbf9547dxbhVTf07kdHsuNZgzIWH2UT9uY7zRbTA5M%3D%3A0"},
 
-{"key":"初中","name":"📚┃初中┃课堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61581/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=7Jxqd0BzuIm-2OvXZyoRasDb1P3OojENYkxLf6bhLr0%3D%3A0"},
+{"key":"初中","name":"📚┃初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61581/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=7Jxqd0BzuIm-2OvXZyoRasDb1P3OojENYkxLf6bhLr0%3D%3A0"},
 
 
 
@@ -2117,44 +2117,31 @@ http://home.jundie.top:81/top98.json
 //{"name":"Json聚合","type":3,"url":"Demo"},
 //{"name":"并发","type":2,"url":"Parallel"},
 //{"name":"轮询","type":2,"url":"Sequence"},
-//user
-//{"name":"自己","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=12684549&key=chmpqruBCHLPUWY357&url="},
-//{"name":"自己1","type":1,"url":"http://api.jiexi.plus/api/?key=1f9dc9148101ec54a0f49a3a4ffcce59&url="},
-//{"name":"自己2","type":1,"url":"http://daina.hk/api/?key=beefd994aa36292b0eef7903cf304c01&url="},
+{"name":"解析","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2100&my=egiosvxDHMPSWX1356&mgtv=app&url="},
+{"name":"解析1","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
+{"name":"解析2","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
-
-//{"name":"自己3","type":1,"url":"http://json.84jia.com/api/?key=4dbn7O4tlzcNwCPfui&url="},
+//user10
+{"name":"自己","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=16502951&key=cdflmoqrABGKOPRSV6&url="},
+{"name":"自己1","type":1,"url":"http://api.jiexi.plus/api/?key=b9a6598f90d51802944479b0f0a60007&url="},
+{"name":"自己2","type":1,"url":"http://daina.hk/api/?key=beefd994aa36292b0eef7903cf304c01&url="},
+//50
+{"name":"自己3","type":1,"url":"http://json.84jia.com/api/?key=VoGFPf8L91t64063wv&url="},
 //http://yhjx.6ys6.top/
 {"name":"自己4","type":1,"url":" https://s4.s100.vip:37811/home/api?type=ys&uid=4482720&key=djmnpvwBCGIJOV1279&url="},
 //https://api.m3u8.tv:5678/user/login
-//{"name":"自己5","type":1,"url":" https://api.m3u8.tv:5678/home/api?type=ys&uid=66921166&key=abdpyzABDFHNUXZ014&url="},
-//{"name":"自己6","type":1,"url":"https://api.json.icu/api/?key=0d3915815c398e8d5a0442de2a562c80&url="},
-//{"name":"自己7","type":1,"url":"http://xiaoxin.1080p.me/api/?key=ed7437f71316e99b53bbe5b48d3674a7&url="},
+//100
+{"name":"自己5","type":1,"url":"https://api.json.icu/api/?key=a619b421843072cd3b9eae437185ebcc&url="},
+//1000
+//{"name":"自己6","type":1,"url":"http://xiaoxin.1080p.me/api/?key=4cfc01f7eb0a8ba761e1bb96eaf6eeac&url="},
 
-{"name":"解析","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
-{"name":"肥猫","type":1,"url":"http://我是.肥猫.love:63/Art0425/analysis.php?v="},
-{"name":"4K","type":1,"url":"http://xhww.fun:63/窗外.php?url=","User-Agent":"okhttp/3.12.0"},
-{"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-{"name":"解析2","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
-{"name":"解析3","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
-{"name":"解析4","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
-{"name":"解析5","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
-{"name":"解析6","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
-{"name":"解析7","type":1,"url":"http://json.yimufund.net/jsonindex.php?url=","ext":{"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
 
-{"name":"打死你个大笨蛋","type":1,"url":"http://xhww.fun:63/黄金甲.php?url=","User-Agent":"okhttp/3.12.0"},
 
-{"name":"解析0","type":1,"url":"https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","ext":{"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
+//500
+//{"name":"解析10","type":1,"url":"https://jx.255tv.tk/api/?key=g07NPWJkxwWkkSx6LX&url="}, 
 
-{"name":"解析1","type":1,"url":"https://jf.icucloud.vip/api/jsonindex.php/?key=ahNCgSypVOi9W5aloR&url="},
 
-{"name":"解析2","type":1,"url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url="}, 
 
-{"name":"解析6","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
-
-{"name":"解析7","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
-
-{"name":"解析9","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2100&my=egiosvxDHMPSWX1356&mgtv=app&url="},
 
 
 
