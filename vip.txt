@@ -10,7 +10,13 @@ http://home.jundie.top:81/top98.json
 
 
 {
-  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;673aecd8d03af3b47eb6177faa3b3b90",
+
+//电脑
+  "spider": "https://114-233-226-119.d.cjjd15.com:30443/download-cdn.123pan.cn/123-290/31c1a0e7/1815043570-0/31c1a0e7623d6fbcb53928ff2183a522/c-m2?v=5&t=1687245537&s=168724553729fc89798ff5b149db3dc5a6451b93ee&r=QGM4BU&filename=custom_spider%E8%BD%AC%E7%A0%81%E5%9C%A8%E5%89%8D0616.jar&x-mf-biz-cid=e12e71a3-0a9c-4fee-9167-0fccb494680d-6eaa77&auto_redirect=0&xmfcid=bcfee57f-9da2-45cc-90c2-9c540638d36b-1-50111d3b1",
+//手机
+//  "spider": "https://49-89-184-161.d.cjjd15.com:30443/download-cdn.123pan.cn/123-290/31c1a0e7/1815043570-0/31c1a0e7623d6fbcb53928ff2183a522/c-m2?v=5&t=1687245599&s=1687245599c288115be861c474b268f6df610b0015&r=COYHOZ&filename=custom_spider%E8%BD%AC%E7%A0%81%E5%9C%A8%E5%89%8D0616.jar&x-mf-biz-cid=486907de-bef2-40a6-aceb-c42a78ad33b4-6eaa77&auto_redirect=0&xmfcid=016ae794-79dd-46c2-850f-33f684fe5ea5-1-50111d3b1",
+
+//  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;31c1a0e7623d6fbcb53928ff2183a522",
 
 
 
@@ -66,10 +72,19 @@ http://home.jundie.top:81/top98.json
   
   "sites": [
 {"key":"drpy_js_奇珍异兽1","name":"🐨┃爱奇┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
-
+{"key":"csp_WoGG1","name":"🔍阿里-玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"583bb878cc424a29859a28f41885d376+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a4c63fe74439b399ccd4eaaf4c639588"},
+ {
+      "key": "csp_WoGG",
+      "name": "🤡玩偶哥哥┃4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "583bb878cc424a29859a28f41885d376","jar":"https://jihulab.com/ymz1231/jar/-/raw/main/ali.jar"},
        {"key":"Gitcafe","name":"📀小纸条撒(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
         {"key":"csp_Zhaozy","name":"📀找资源撒(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-        {"key":"csp_AliPS","name":"📀喵狸盘搜撒(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
+        {"key":"csp_AliPS","name":"📀喵狸盘搜撒(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"583bb878cc424a29859a28f41885d376"},
         {"key":"csp_Yisou","name":"📀易搜撒(搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
         {"key":"csp_Upyunso","name":"📀UP云搜撒(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
         {"key": "csp_XYQHiker_土拨鼠搜索","name":"📀土拨鼠(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/nMQiVGDQ"},
@@ -121,29 +136,7 @@ http://home.jundie.top:81/top98.json
 
 
 
-        {"key":"Gitcafe","name":"📀小纸条撒(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-        {"key":"csp_Zhaozy","name":"📀找资源撒(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-        {"key":"csp_AliPS","name":"📀喵狸盘搜撒(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-        {"key":"csp_Yisou","name":"📀易搜撒(搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-        {"key":"csp_Upyunso","name":"📀UP云搜撒(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-        {"key": "csp_XYQHiker_土拨鼠搜索","name":"📀土拨鼠(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/nMQiVGDQ"},
-        {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/74j4mxtR"},
-       // {"key": "csp_XYQHikerAL_4KHDR","name":"📀🧲4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":0,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/4KHDR.json"},
-        {"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/GtdSRyRt"},
-        {"key": "csp_XYQHikerAL_我的小站","name":"📀我的小站(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/sCPJH1h2"},
-        {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/dEFpSeZg"},
-     //   {"key": "csp_XYQHikerAL_豆豆飞","name":"📀豆豆飞(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/豆豆飞.json"},
-        {"key": "csp_XYQHikerAL_橘子盘搜","name":"📀橘子盘搜(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/Nk4WTHpP"},
- //       {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/gqK498w8"},
- //       {"key": "csp_XYQBiu_云盘分享","name":"📀云盘分享(搜索)","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/v2muLKyR"},
-//        {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/HAkks06P"},
-        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
-
-{"key": "csp_XYQHiker_DOVX搜索","name":"🪀DOVX搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/DOVX搜索.json","jar":"https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"},
-        {"key": "csp_XYQBiu_云盘分享","name":"🪀云盘分享","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/云盘分享.json","jar":"https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"},
-        {"key": "csp_XYQHiker_盘搜索","name":"🪀盘搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4127/js/盘搜索.json","jar":"https://download.kstore.space/download/4127/Xiang.txt;md5; ffba26ea3e1400eaa63a9778a1d9524f"},
-
-
+  
 
    {
             "key": "dr_兔小贝1",
@@ -274,6 +267,15 @@ http://home.jundie.top:81/top98.json
 		},
 
 
+    {
+      "key": "MV_vod",
+      "name": "┃MV┃视频",
+      "type": 1,
+      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"nongming","name":"不必太复杂","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"http://shuyuan.miaogongzi.net/shuyuan/1686445307.txt"},
 
@@ -307,8 +309,247 @@ http://home.jundie.top:81/top98.json
 
 {"key": "XM","name": "小米牛逼","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
 
- 
+    {
+      "key": "csp_xml_皮皮鸭",
+      "name": "┃皮皮鸭┃采集",
+      "type": 1,
+      "api": "https://www.pipiya.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_xml_42",
+      "name": "┃42┃采集",
+      "type": 1,
+      "api": "https://www.42.la/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_豌豆",
+      "name": "┃豌豆┃采集",
+      "type": 1,
+      "api": "https://ks.wandouzy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_xml_蜜蜂",
+      "name": "┃蜜蜂┃采集",
+      "type": 1,
+      "api": "https://www.beeyao.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+    
+    
+    {
+      "key": "csp_xml_土豪",
+      "name": "┃土豪┃采集",
+      "type": 1,
+      "api": "https://www.tuhao.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_新马",
+      "name": "┃新马┃采集",
+      "type": 1,
+      "api": "https://movie.gsl99.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_xml_猫耳",
+      "name": "┃猫耳┃采集",
+      "type": 1,
+      "api": "https://www.mervod.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_xml_徕米",
+      "name": "┃徕米┃采集",
+      "type": 1,
+      "api": "https://www.laimitv.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_大鱼",
+      "name": "┃大鱼┃采集",
+      "type": 1,
+      "api": "https://187687.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_xml_VIP资源",
+      "name": "┃VIP资源┃采集",
+      "type": 1,
+      "api": "https://vipcj.timizy.top/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_xml_王者",
+      "name": "┃王者┃采集",
+      "type": 1,
+      "api": "http://server.usa666.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_xml_看看铺",
+      "name": "┃看看铺┃采集",
+      "type": 1,
+      "api": "https://www.kankanpu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_xml_白嫖",
+      "name": "┃白嫖┃采集",
+      "type": 1,
+      "api": "https://www.baipiaotv.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_52看剧",
+      "name": "┃52看剧┃采集",
+      "type": 1,
+      "api": "https://985pc.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_饭后",
+      "name": "┃饭后┃采集",
+      "type": 1,
+      "api": "http://zycj.jiexi.plus/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_可可",
+      "name": "┃可可┃采集",
+      "type": 1,
+      "api": "https://caiji.kekezyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_星辰云播",
+      "name": "┃星辰云播┃采集",
+      "type": 1,
+      "api": "http://tv.cpkey.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_蘑菇",
+      "name": "┃蘑菇┃采集",
+      "type": 1,
+      "api": "http://api.moguapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_789",
+      "name": "┃789┃采集",
+      "type": 1,
+      "api": "https://www.rrvipw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_每天看看",
+      "name": "┃每天看看┃采集",
+      "type": 1,
+      "api": "http://47.113.126.237:1234/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_速播",
+      "name": "┃速播┃采集",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_234",
+      "name": "┃234┃采集",
+      "type": 1,
+      "api": "https://www.knyu.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_艾旦",
+      "name": "┃艾旦┃采集",
+      "type": 1,
+      "api": "https://lovedan.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "csp_xml_优质",
+      "name": "┃优质┃采集",
+      "type": 1,
+      "api": "http://hdzyk.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
+   {
+      "key": "csp_xml_优服",
+      "name": "┃优服┃采集",
+      "type": 1,
+      "api": "https://www.hhyyqq.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+ 
+        {
+		"key": "飞云解析",
+		"name": "🚀飞云解析",
+		"type": 1,
+		"api": "http://1.ahailove.cn:23450/api.php/provide/vod",
+		"searchable": 1,
+		"quickSearch": 1,
+                "playerType":1,
+		"playUrl": "https://www.kankanju.cc/f/jxplayer.php?v=",
+		"categories": ["连续剧","电影", "综艺", "动漫"]
+	},
 {"key":"FY1","name":"飞云解析","type":1,"api":"http://1.ahailove.cn:23456/api.php/provide/vod","searchable":1,"quickSearch":1,"playUrl": "json:https://api.jiexi.plus/api/?key=f6800b2fb394bee989a42d55be8c161e&url=","categories": ["连续剧","电影","综艺","动漫"]},
 
 		{
@@ -371,14 +612,14 @@ http://home.jundie.top:81/top98.json
 
 
 
-
+/*
 
 {"key":"Gitcafe","name":"💽阿里纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "cbce02692a0c4607b815e38efc9e5137"},
 {"key":"csp_Yisou","name":"💽阿里易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "cbce02692a0c4607b815e38efc9e5137"},
 {"key":"csp_Zhaozy","name":"💽阿里找源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"cbce02692a0c4607b815e38efc9e5137"},
 {"key":"csp_AliPS","name":"💽阿里盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"cbce02692a0c4607b815e38efc9e5137"},
 {"key":"csp_Upyunso","name":"💽阿里云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"cbce02692a0c4607b815e38efc9e5137"},
-
+*/
 {"key":"csp_Czsapp","name":"🌶厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy03.com"},
 {"key":"csp_Kuaikan","name":"🌶快看影视","type":3,"api":"csp_Kuaikan","changeable":0,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"🌶360影视","type":3,"api":"csp_SP360","changeable":0,"playerType":1,"filterable":1,"quickSearch":1,"searchable":1},
@@ -1975,6 +2216,7 @@ http://home.jundie.top:81/top98.json
 
 
 
+{"name": "GGTV快速","type": 1,"url": "http://json.jdwei8.cn/home/api?type=ys&uid=2691411&key=adeikmwxAIKOPQTVZ5&url="}, 
 
 
 {"name":"嗅探4","type":0,"url":"https://jx.quankan.app/?url="},
