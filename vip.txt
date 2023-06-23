@@ -12,10 +12,10 @@ http://home.jundie.top:81/top98.json
 {
 
 //电脑
-  "spider": "https://114-233-226-119.d.cjjd15.com:30443/download-cdn.123pan.cn/123-290/31c1a0e7/1815043570-0/31c1a0e7623d6fbcb53928ff2183a522/c-m2?v=5&t=1687245537&s=168724553729fc89798ff5b149db3dc5a6451b93ee&r=QGM4BU&filename=custom_spider%E8%BD%AC%E7%A0%81%E5%9C%A8%E5%89%8D0616.jar&x-mf-biz-cid=e12e71a3-0a9c-4fee-9167-0fccb494680d-6eaa77&auto_redirect=0&xmfcid=bcfee57f-9da2-45cc-90c2-9c540638d36b-1-50111d3b1",
-//手机
-//  "spider": "https://49-89-184-161.d.cjjd15.com:30443/download-cdn.123pan.cn/123-290/31c1a0e7/1815043570-0/31c1a0e7623d6fbcb53928ff2183a522/c-m2?v=5&t=1687245599&s=1687245599c288115be861c474b268f6df610b0015&r=COYHOZ&filename=custom_spider%E8%BD%AC%E7%A0%81%E5%9C%A8%E5%89%8D0616.jar&x-mf-biz-cid=486907de-bef2-40a6-aceb-c42a78ad33b4-6eaa77&auto_redirect=0&xmfcid=016ae794-79dd-46c2-850f-33f684fe5ea5-1-50111d3b1",
+"spider": "https://114-233-226-143.d.cjjd15.com:30443/download-cdn.123pan.cn/123-95/3be7f6f7/1815043570-0/3be7f6f7ffd06196f094a695ca5ce05f/c-m2?v=5&t=1687525658&s=1687525658c0240d60dc5c0b518fffd2bb3566b86e&r=L8E4QX&filename=custom_spider%E8%BD%AC%E7%A0%81%E5%9C%A8%E5%89%8D0621.jar&x-mf-biz-cid=2c0a2b73-95cf-4d32-9917-6f0d46bb1428-c4937c&auto_redirect=0&xmfcid=0581b022-30f1-44ea-89ee-d64c2ccf10e6-0-50111d3b1",
 
+//手机
+//"spider": "https://59-47-225-44.d.cjjd15.com:30443/download-cdn.123pan.cn/123-95/3be7f6f7/1815043570-0/3be7f6f7ffd06196f094a695ca5ce05f/c-m2?v=5&t=1687525590&s=1687525590497aa74f88681c6a4b9ce218c8dfd330&r=LLADNM&filename=custom_spider%E8%BD%AC%E7%A0%81%E5%9C%A8%E5%89%8D0621.jar&x-mf-biz-cid=8a1f5913-40d6-4342-8788-645f89bf38ad-c4937c&auto_redirect=0&xmfcid=dc8b9caf-e428-4bc6-bbd8-3765c933e1c2-1-50111d3b1",
 //  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;31c1a0e7623d6fbcb53928ff2183a522",
 
 
@@ -104,6 +104,8 @@ http://home.jundie.top:81/top98.json
 
   
   "sites": [
+        {"key": "csp_XYQBiu_磁力熊","name":"💿磁力熊(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://XYQTVBox/XYQBiu/磁力熊.json"},
+
 {"key":"drpy_js_奇珍异兽1","name":"🐨┃爱奇┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
 {"key":"csp_WoGG1","name":"🔍阿里-玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"583bb878cc424a29859a28f41885d376+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a4c63fe74439b399ccd4eaaf4c639588"},
  {
@@ -559,13 +561,6 @@ http://home.jundie.top:81/top98.json
 {"key":"csp_AliPS","name":"💽阿里盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"cbce02692a0c4607b815e38efc9e5137"},
 {"key":"csp_Upyunso","name":"💽阿里云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"cbce02692a0c4607b815e38efc9e5137"},
 */
-{"key":"csp_Czsapp","name":"🌶厂长资源","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy03.com"},
-{"key":"csp_Kuaikan","name":"🌶快看影视","type":3,"api":"csp_Kuaikan","changeable":0,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"360_spider","name":"🌶360影视","type":3,"api":"csp_SP360","changeable":0,"playerType":1,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Kunyu77","name":"🌶77影视","type":3,"api":"csp_Kunyu77","changeable":0,"searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_LiteApple","name":"🌶小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Ddys","name":"🌶低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-
 
 
 
