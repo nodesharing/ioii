@@ -12,7 +12,7 @@ http://home.jundie.top:81/top98.json
 {
 
 
-  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;347709910a7a1cb7145b69a3f006f72c",
+  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;267caa8e72a357681e267f46fd9e365e",
 
 
 
@@ -100,8 +100,22 @@ http://home.jundie.top:81/top98.json
 
   
   "sites": [
-  {"key":"csp_XYQBiu_斗鱼","name":"🐬斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"},
-
+    {
+      "key": "csp_xml_飞云",
+      "name": "🛫┃飞云┃影视",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "http://4k.953365.cn:8090/api.php/provide/vod/from/FY/",
+      "playUrl": "json:https://api.nitto.fun/api/?key=YyO6Ah8e7T4RyfQh8i&url=",    
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫"
+      ]
+    }, 
 {"key":"drpy_js_奇珍异兽1","name":"🐨┃爱奇┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js"},
 {"key":"csp_WoGG1","name":"🔍阿里-玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"583bb878cc424a29859a28f41885d376+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;a4c63fe74439b399ccd4eaaf4c639588"},
  {
@@ -2130,7 +2144,7 @@ http://home.jundie.top:81/top98.json
   ],
   "parses": [
 {
-"name": "手动点我1",
+"name": "手动点我",
 "type": 3,
 "url": "Web",
 "header": {
@@ -2199,7 +2213,9 @@ http://home.jundie.top:81/top98.json
 {"name":"9","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"10","type":0,"url":"https://dm.xmflv.com:4433/?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
 {"name":"11","type":0,"url":"https://vip.bljiex.com/?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
-
+{"name":"88","type":0,"url":"http://aabbcc.work:14565/?url=","ext":{"flag":["qq","qiyi","youku","sohu","letv","imgo","mgtv","bilibili","xigua"],"header": 
+{"User-Agent":"Mozilla/5.0 AppleWebKit/605.1.15 Version/13.0.3 Mobile/15E148 Safari/604.1","Referer": "http://aabbcc.work:5478/"}}
+},
 
 
 {"name":"️备用9","type":0,"url":"https://www.nxflv.com/?url="},
