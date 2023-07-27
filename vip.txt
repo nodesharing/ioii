@@ -12,8 +12,8 @@ http://home.jundie.top:81/top98.json
 {
 
 
-  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;1081b763574200052628944446e67060",
-
+//  "spider": "https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar;md5;89147363bd9e75d5fa47b01908f8a01a",
+  "spider": "https://gitlab.com/nodesharing/v2/-/raw/main/custom_spider.jar;md5;89147363bd9e75d5fa47b01908f8a01a",
 
 
 
