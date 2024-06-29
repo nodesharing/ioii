@@ -3,7 +3,7 @@
         "from_email": "732796330@qq.com",
         "smtp_server": "smtp.qq.com",
         "smtp_port": 465,
-        "to_email": "37037825@qq.com"
+        "to_email": "3024163484@qq.com"
     },
     "api_settings": {
         "url": "https://devapi.qweather.com/v7/warning/now",
