@@ -1,0 +1,32 @@
+# This workflow will build a Java project with Ant
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-ant
+
+name: HiFINI-Auto-CheckIn
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 22 * * *" # 北京时间上午06:30
+
+jobs:
+  build:
+    env:
+      COOKIE: ${{ secrets.COOKIE }}
+      SERVER_CHAN: ${{ secrets.SERVER_CHAN }}
+      DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+      WXWORK_WEBHOOK: ${{ secrets.WXWORK_WEBHOOK }}
+      TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+      TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up JDK 8
+        uses: actions/setup-java@v3
+        with:
+          java-version: '8'
+          distribution: 'temurin'
+      - name: Build with Ant
+        run: |
+          mvn compile
+          mvn exec:java -Dexec.mainClass="cloud.ohiyou.Main"
