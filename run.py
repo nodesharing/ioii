@@ -11,56 +11,32 @@ import recognize
 from rich import print_json
 
 
-DEBUG_MODE = True  # Debug模式，是否打印请求返回信息
+DEBUG_MODE = False  # Debug模式，是否打印请求返回信息
 # PROXY = input('请输入代理，如不需要直接回车:')  # 代理，如果多次出现IP问题可尝试将自己所用的魔法设置为代理。例如：使用clash则设置为 'http://127.0.0.1:7890'
 PROXY = ''
-# PUSHPLUS_TOKEN = os.getenv('PUSHPLUS_TOKEN') or ''
-# INVITE_CODE = os.getenv('INVITE_CODE') or input('请输入邀请码: ')
-PUSHPLUS_TOKEN = ''
-#这个填自己的邀请码，不要搞我，我乱填的
-#INVITE_CODE = '26712463'
+PUSHPLUS_TOKEN = os.getenv('PUSHPLUS_TOKEN') or ''
 INVITE_CODE = os.getenv('INVITE_CODE') or input('请输入邀请码: ')
 PUSH_MSG = ''
 
 
-async def get_mail():
-    #通过postman去调用接口获取邮箱，直接修改这个邮箱地址
-    mail='zffumvu37x080fug@vafyxh.com'
-    return mail
-    
-    # json_data = {
-    #     "min_name_length": 10,
-    #     "max_name_length": 10
-    # }
-    # url = 'https://api.internal.temp-mail.io/api/v3/email/new'
-    # async with aiohttp.ClientSession() as session:
-    #     async with session.post(url, json=json_data, ssl=False) as response:
-    #         print (response)
-    #         response_data = await response.json()
-    #         mail = response_data['email']
-    #         mail='3acrswq7lqd@rfcdrive.com'
-    #         return mail
 
 # 检查变量
 def check_env():
     invite_code_list = []
-    invite_code_list.append(INVITE_CODE)
-    return invite_code_list
-    # invite_code_list = []
-    # if not PUSHPLUS_TOKEN:
-    #     print('请按照文档设置PUSHPLUS_TOKEN环境变量')
-    # if not INVITE_CODE:
-    #     print('请按照文档设置INVITE_CODE环境变量')
-    #     raise Exception('请按照文档设置INVITE_CODE环境变量')
-    # else:
-    #     if '@' in INVITE_CODE:
-    #         invite_code_list = INVITE_CODE.split('@')
-    #     elif '\n' in INVITE_CODE:
-    #         invite_code_list = INVITE_CODE.split('\n')
-    #     else:
-    #         invite_code_list.append(INVITE_CODE)
-    #     return invite_code_list
-    
+    if not PUSHPLUS_TOKEN:
+        print('请按照文档设置PUSHPLUS_TOKEN环境变量')
+    if not INVITE_CODE:
+        print('请按照文档设置INVITE_CODE环境变量')
+        raise Exception('请按照文档设置INVITE_CODE环境变量')
+    else:
+        if '@' in INVITE_CODE:
+            invite_code_list = INVITE_CODE.split('@')
+        elif '\n' in INVITE_CODE:
+            invite_code_list = INVITE_CODE.split('\n')
+        else:
+            invite_code_list.append(INVITE_CODE)
+        return invite_code_list
+
 
 # 推送
 async def push(content):
@@ -171,7 +147,17 @@ async def get_sign(xid, t):
     return md5_hash
 
 
-
+async def get_mail():
+    json_data = {
+        "min_name_length": 10,
+        "max_name_length": 10
+    }
+    url = 'https://api.internal.temp-mail.io/api/v3/email/new'
+    async with aiohttp.ClientSession() as session:
+        async with session.post(url, json=json_data, ssl=False) as response:
+            response_data = await response.json()
+            mail = response_data['email']
+        return mail
 
 
 # 获取邮箱的验证码内容
