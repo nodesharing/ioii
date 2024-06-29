@@ -3,7 +3,7 @@ name: Run Weather Warning Script
 on:
   schedule:
     # 每6小时运行一次
-    - cron: '0 */6 * * *'
+    - cron: '* * * * *'
   workflow_dispatch: # 添加这行来允许手动触发
 
 jobs:
